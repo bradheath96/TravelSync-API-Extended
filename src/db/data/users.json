@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "username": "john_doe",
+    "email": "john@example.com",
+    "password": "$2b$12$eBeqEFTDIw.PRSu0Qaw/6eGDtRDz56qySEGljMFrG7Su0R6qV8ke.",
+    "created_at": "2024-08-22T10:00:00"
+  },
+  {
+    "id": 2,
+    "username": "jane_doe",
+    "email": "jane@example.com",
+    "password": "password_2",
+    "created_at": "2024-08-22T10:05:00"
+  },
+  {
+    "id": 3,
+    "username": "alice_smith",
+    "email": "alice@example.com",
+    "password": "password_3",
+    "created_at": "2024-08-22T10:10:00"
+  },
+  {
+    "id": 4,
+    "username": "bob_jones",
+    "email": "bob@example.com",
+    "password": "password_4",
+    "created_at": "2024-08-22T10:15:00"
+  },
+  {
+    "id": 5,
+    "username": "charlie_brown",
+    "email": "charlie@example.com",
+    "password": "password_5",
+    "created_at": "2024-08-22T10:20:00"
+  },
+  {
+    "id": 6,
+    "username": "dave_white",
+    "email": "dave@example.com",
+    "password": "password_6",
+    "created_at": "2024-08-22T10:25:00"
+  },
+  {
+    "id": 7,
+    "username": "eve_black",
+    "email": "eve@example.com",
+    "password": "password_7",
+    "created_at": "2024-08-22T10:30:00"
+  },
+  {
+    "id": 8,
+    "username": "frank_green",
+    "email": "frank@example.com",
+    "password": "password_8",
+    "created_at": "2024-08-22T10:35:00"
+  },
+  {
+    "id": 9,
+    "username": "grace_wilson",
+    "email": "grace@example.com",
+    "password": "password_9",
+    "created_at": "2024-08-22T10:40:00"
+  },
+  {
+    "id": 10,
+    "username": "hank_pink",
+    "email": "hank@example.com",
+    "password": "password_10",
+    "created_at": "2024-08-22T10:45:00"
+  },
+  {
+    "id": 11,
+    "username": "ivy_gray",
+    "email": "ivy@example.com",
+    "password": "password_11",
+    "created_at": "2024-08-22T10:50:00"
+  },
+  {
+    "id": 12,
+    "username": "jack_brown",
+    "email": "jack@example.com",
+    "password": "password_12",
+    "created_at": "2024-08-22T10:55:00"
+  }
+]
